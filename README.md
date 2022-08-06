@@ -13,4 +13,5 @@ Build a knowledge base by adding unstructured documents or extracting questions 
 My github weproject url:
 https://github.com/VakkalagaddaAishwarya/Webproject
 My Project Demo URL:
-https://styleinyourway.azurewebsites.net
+
+
