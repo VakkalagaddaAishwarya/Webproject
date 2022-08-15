@@ -12,7 +12,7 @@ Build a knowledge base by adding unstructured documents or extracting questions 
 
 My github weproject url:
 https://github.com/VakkalagaddaAishwarya/Webproject
-My Project Demo URL:
+My Project Demo URL:https://purple-forest-0f90c8c10.1.azurestaticapps.net
 
 
 ![Screenshot (1251)](https://user-images.githubusercontent.com/98083921/183256473-6f8186fd-c79e-4b53-92a1-a1d9d7bb2a5a.png)
